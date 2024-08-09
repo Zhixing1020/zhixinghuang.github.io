@@ -23,11 +23,11 @@ News
 
 Research Interests
 ======
-- Job shop scheduling, hyper-heuristic learning / optimisation\\
+- Linear Genetic Programming\\
+- Dynamic Job shop scheduling, hyper-heuristic learning / optimisation\\
+- Symbolic Regression\\
 - Artificial intelligence, machine learning\\
-• Evolutionary computation, particularly genetic programming\\
-• Transfer learning, multitask optimisation, multi-objective optimisation\\
-• Feature selection, surrogate, genetic operators
+- Evolutionary computation, theoretical study\\
 
 For more info
 ------
