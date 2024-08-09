@@ -6,10 +6,10 @@ main:
   - title: "Grants and Projects"
     url: /grants_projects/
     
-  - title: "Professional Activities"
-    url: /professional_activities/    
+  - title: "Activities"
+    url: /activities/    
 
-  - title: "Teaching and Supervision"
+  - title: "Teaching"
     url: /teaching/    
 
   - title: "Honours/Awards"
