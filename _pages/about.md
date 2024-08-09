@@ -23,11 +23,11 @@ News
 
 Research Interests
 ======
-- Linear Genetic Programming\\
-- Dynamic Job shop scheduling, hyper-heuristic learning / optimization\\
-- Symbolic Regression, program synthesis\\
-- Artificial intelligence, machine learning\\
-- Evolutionary computation, theoretical study\\
+- Linear Genetic Programming
+- Dynamic Job shop scheduling, hyper-heuristic learning / optimization
+- Symbolic Regression, program synthesis
+- Artificial intelligence, machine learning
+- Evolutionary computation, theoretical study
 
 Biography
 ======
