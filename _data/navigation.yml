@@ -3,20 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Professional Activities"
+    url: /professional_activities/    
 
-  - title: "Teaching"
+  - title: "Teaching and Supervision"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Grants and Projects"
+    url: /grants_projects/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Honours/Awards"
+    url: /honour_awards/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Resources"
+    url: /resources/
