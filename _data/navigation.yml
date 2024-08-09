@@ -3,15 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Grants and Projects"
+    url: /grants_projects/
+    
   - title: "Professional Activities"
     url: /professional_activities/    
 
   - title: "Teaching and Supervision"
     url: /teaching/    
-    
-  - title: "Grants and Projects"
-    url: /grants_projects/
-        
+
   - title: "Honours/Awards"
     url: /honour_awards/
     
