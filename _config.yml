@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Zhixing Huang(黄至行)"
+name                     : &name "Zhixing Huang (黄至行)"
 description              : &description "personal description"
 url                      : https://zhixing1020.github.io/zhixinghuang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,13 @@ repository               : "Zhixing1020/zhixinghuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "Zhixing Huang Square.jpg"
+  name             : "Zhixing Huang (黄至行)"
+  pronouns         : # example: "he/his"  
+  bio              : "Post-doctoral Fellow"
+  location         : "Wellington, New Zealand"
+  employer         : "Victoria University of Wellington"
+  email            : "zhixing.huang@ecs.vuw.ac.nz" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
