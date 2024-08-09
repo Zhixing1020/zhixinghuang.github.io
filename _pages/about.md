@@ -24,11 +24,11 @@ News
 Research Interests
 ======
 - Linear Genetic Programming\\
-- Dynamic Job shop scheduling, hyper-heuristic learning / optimisation\\
-- Symbolic Regression\\
+- Dynamic Job shop scheduling, hyper-heuristic learning / optimization\\
+- Symbolic Regression, program synthesis\\
 - Artificial intelligence, machine learning\\
 - Evolutionary computation, theoretical study\\
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Biography
+======
+Zhixing Huang received the B.S. and M.S. degrees from the School of Computer Science and Engineering, South China University of Technology, China, in 2018 and 2020 respectively. He is currently a post-doctoral fellow in Artificial Intelligence with the Centre of Data Science and AI & the School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand. His research interests include evolutionary computation (e.g., genetic programming and its applications), combinatorial optimization, and program synthesis. Mr. Huang is a member of the IEEE Computational Intelligence Society. He has been serving as a reviewer for top international journals such as the IEEE Transactions on Evolutionary Computation and the IEEE Transactions on Neural Networks and Learning Systems, and conferences including the Genetic and Evolutionary Computation Conference and the IEEE Congress on Evolutionary Computation. 
