@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Professional Activities"
-permalink: /professional-activities/
+title: "Activities"
+permalink: /activities/
 author_profile: true
 ul li { padding: 5px 0px; }
 ---
