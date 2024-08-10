@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "resources"
+title: "Resources"
 permalink: /resources/
 author_profile: true
 ul li { padding: 5px 0px; }
