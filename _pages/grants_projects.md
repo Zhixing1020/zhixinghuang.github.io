@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Grants"
-permalink: /grant/
+permalink: /grants_projects/
 author_profile: true
 ---
 <ol>
