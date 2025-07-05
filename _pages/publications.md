@@ -8,8 +8,7 @@ author_profile: true
 ## Refereed Journal Articles
 <ol>
 <li>
-<b>Zhixing Huang</b>, Yi Mei, Fangfang Zhang, Mengjie Zhang, and Wolfgang Banzhaf. "<a target="_blank" href="https://direct.mit.edu/evco/article/doi/10.1162/evco.a.25/130819/Cross-Representation-Genetic-Programming-A-Case">Cross-Representation Genetic Programming: A Case Study on Tree-Based and Linear Representations</a>." <i>Evolutionary Computation</i>, 2025, 1–28. DOI: https://doi.org/10.1162/evco.a.25 <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/cross-representation%20GP-%20LGP%20and%20TGP.pdf">[pdf]</a>.
-</li>
+<b>Zhixing Huang</b>, Yi Mei, Fangfang Zhang, Mengjie Zhang, and Wolfgang Banzhaf. "<a target="_blank" href="https://direct.mit.edu/evco/article/doi/10.1162/evco.a.25/130819/Cross-Representation-Genetic-Programming-A-Case">Cross-Representation Genetic Programming: A Case Study on Tree-Based and Linear Representations</a>." <i>Evolutionary Computation</i>, 2025, 1–28. DOI: https://doi.org/10.1162/evco.a.25 <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/cross-representation%20GP-%20LGP%20and%20TGP.pdf">[pdf]</a></li>
 
 <li><b>Zhixing Huang</b>, Yi Mei, Fangfang Zhang, and Mengjie Zhang. "<a target="_blank" href="https://ieeexplore.ieee.org/document/10398533">Toward Evolving Dispatching Rules with Flow Control Operations by Grammar-guided Linear Genetic Programming</a>". <i>IEEE Transactions on Evolutionary Computation</i>, 2024. DOI: 10.1109/TEVC.2024.3353207 <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Toward_Evolving_Dispatching_Rules_With_Flow_Control_Operations_By_Grammar-Guided_Linear_Genetic_Programming.pdf">[pdf]</a>&#128077;</li>
   
