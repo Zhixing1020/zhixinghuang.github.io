@@ -9,7 +9,6 @@ ul li { padding: 5px 0px; }
 ## Talks
 <ol>
 
-
 </ol>
 
 ## Peer Reviewer for International Journals
@@ -23,6 +22,8 @@ ul li { padding: 5px 0px; }
 
 ## Professional Membership
 <ol>
-<li> IEEE Student Member, 2021 – Present </li>
+<li> IEEE Member, 2024 – 2025 </li>
 <li> IEEE Computational Intelligence Society (CIS) Member, 2021 – Present </li>
+<li> IEEE CIS Taskforce on Evolutionary Scheduling and Combinatorial Optimisationt Member, 2021 – Present </li>
+<li> IEEE Student Member, 2021 – 2024 </li>
 </ol>
