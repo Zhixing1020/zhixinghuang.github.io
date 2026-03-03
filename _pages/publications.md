@@ -25,6 +25,9 @@ author_profile: true
 
 <li><b>Zhixing Huang</b>, Jinghui Zhong, Liang Feng, Yi Mei, W. Cai. “<a href="https://link.springer.com/article/10.1007/s00500-019-04379-4">A fast parallel genetic programming framework with adaptively weighted primitives for symbolic regression</a>,” <i>Soft Computing</i>, vol. 24, issue 10, pp.7523-7539, 2020. <a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/73f8b0d6b10a4eb28a03445020d49c8694eaa230/files/Huang2020_Article_AFastParallelGeneticProgrammin.pdf">[pdf]</a></li>
 
+<li>Wei-li Liu, Zhenjian Yu, Zhixing Huang, Jinghui Zhong, Xu Lu, Zhiyong Lin, Huimin Zhao, “Multi-task Ant Colony Optimization for Multi-vehicle Path Planning,” Memetic Computing, vol. 17, no. 2, p. 26, Jun. 2025. <a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Weili%20Liu%20et%20al%202025%20-%20Multi-task%20Ant%20Colony%20Optimization%20for%20Multi-vehicle%20Path%20Planning.pdf">[pdf]</a>
+</li>
+
 <li>Yikai Li, Yongliang Chen, Jinghui Zhong, <b>Zhixing Huang</b>. “Niching particle swarm optimization with equilibrium factor for multi-modal optimization,” <i>Information Sciences</i>, vol. 494, pp. 233-246, 2019. <a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/73f8b0d6b10a4eb28a03445020d49c8694eaa230/files/Niching%20particle%20swarm%20optimization%20with%20equilibrium%20factor%20for%20multi-modal%20optimization.pdf">[pdf]</a> </li>
 
 <li>Yulin Lan, Fagui Liu, <b>Zhixing Huang</b>, Wing W. Y. Ng, and Jinghui Zhong, “Two-Echelon Dispatching Problem With Mobile Satellites in City Logistics,” <i>IEEE Transaction on Intelligent Transportation System</i>, vol. 23, no. 1, pp. 84–96, 2022. <a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/73f8b0d6b10a4eb28a03445020d49c8694eaa230/files/Two-Echelon_Dispatching_Problem_With_Mobile_Satellites_in_City_Logistics.pdf">[pdf]</a></li>
@@ -34,6 +37,8 @@ author_profile: true
 
 ## Conference Papers
 <ol>
+<li><b>Zhixing Huang</b>, Bing Xue, Mengjie Zhang, Jeremy S. Rooney, Keith C. Gordon, and Daniel P. Killeen, "Designing New Data Augmentation Functions for Fish Spectral Data by Genetic Programming," in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, Malaga Spain: ACM, Jul. 2025, pp. 939–942. <a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Zhixing%20Huang%20et%20al%202025%20-%20designing%20new%20data%20augmentation%20function%20for%20fish%20spectral%20data%20by%20genetic%20programming.pdf">[pdf]</a></li>
+  
 <li><b>Zhixing Huang</b>, Yi Mei, Fangfang Zhang, and Mengjie Zhang. "Grammar-guided Linear Genetic Programming for Dynamic Job Shop Scheduling", in <i>Proceedings of the Genetic and Evolutionary Computation Conference</i>, ACM, 2023, pp. 1137–1145. (<span style="color: #FF0000">Best Paper Award</span>)<a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/837890899da424484ce014d159babcda0359672a/files/Grammar-guided%20Linear%20Genetic%20Programming%20for%20Dynamic%20Job%20Shop%20Scheduling.pdf">[pdf]</a></li>	
   
 <li><b>Zhixing Huang</b>, Yi Mei, Fangfang Zhang, and Mengjie Zhang. "A Further Investigation to Improve Linear Genetic Programming in Dynamic Job Shop Scheduling", in <i>Proceedings of the IEEE Symposium Series On Computational Intelligence</i>, Springer, 2022, pp. 496-503.<a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/837890899da424484ce014d159babcda0359672a/files/A_Further_Investigation_to_Improve_Linear_Genetic_Programming_in_Dynamic_Job_Shop_Scheduling.pdf">[pdf]</a></li>	
