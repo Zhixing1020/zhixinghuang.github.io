@@ -8,6 +8,11 @@ author_profile: true
 ## Refereed Journal Articles
 <ol>
 <li>
+<b>Zhixing Huang</b>, Bing Xue, Mengjie Zhang, Jeremy S. Rooney, Keith C. Gordon, and Daniel P. Killeen, "<a target="_blank" href="https://rsnz.onlinelibrary.wiley.com/doi/10.1002/snz2.70051"> Symbolically Regressing Fish Biomass Spectral Data: A Linear Genetic Programming Method With Tunable Primitives</a>." <i>Journal of the Royal Society of New Zealand</i>, vol. 56, no. 3, p. e70051, Jun. 2026, doi: 10.1002/snz2.70051.
+ <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Journal of the Royal Society of New Zealand - 2026 - Huang - Symbolically Regressing Fish Biomass Spectral Data  A Linear.pdf"/>[pdf]</a>&#128077;
+</li>
+  
+<li>
 <b>Zhixing Huang</b>, Yi Mei, Fangfang Zhang, Mengjie Zhang, and Wolfgang Banzhaf. "<a target="_blank" href="https://ieeexplore.ieee.org/document/10819486"> Fitness Landscape Optimization Makes Stochastic Symbolic Search By Genetic Programming Easier</a>." <i>IEEE Transactions on Evolutionary Computation</i>, 2025, 1–1. DOI: https://doi.org/10.1109/TEVC.2024.3525006. <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Fitness_Landscape_Optimization_Makes_Stochastic_Symbolic_Search_By_Genetic_Programming_Easier.pdf">[pdf]</a>&#128077;
 </li>
   
@@ -37,6 +42,9 @@ author_profile: true
 
 ## Conference Papers
 <ol>
+
+<li><b>Zhixing Huang</b>, Bing Xue, and Mengjie Zhang, "Typed Linear Genetic Programming for Abstraction and Reasoning Corpus," in <i>Proceedings of the IEEE World Congress on Computational Intelligence</i>, June 2026, pp. 1-1. (<span style="color: #FF0000">Best Paper Award Nomination</span>)<a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/zhixing huang et al 2026 - typed LGP for ARC.pdf">[pdf]</a></li>
+  
 <li><b>Zhixing Huang</b>, Bing Xue, Mengjie Zhang, Jeremy S. Rooney, Keith C. Gordon, and Daniel P. Killeen, "Designing New Data Augmentation Functions for Fish Spectral Data by Genetic Programming," in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, Malaga Spain: ACM, Jul. 2025, pp. 939–942. <a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Zhixing%20Huang%20et%20al%202025%20-%20designing%20new%20data%20augmentation%20function%20for%20fish%20spectral%20data%20by%20genetic%20programming.pdf">[pdf]</a></li>
   
 <li><b>Zhixing Huang</b>, Yi Mei, Fangfang Zhang, and Mengjie Zhang. "Grammar-guided Linear Genetic Programming for Dynamic Job Shop Scheduling", in <i>Proceedings of the Genetic and Evolutionary Computation Conference</i>, ACM, 2023, pp. 1137–1145. (<span style="color: #FF0000">Best Paper Award</span>)<a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/837890899da424484ce014d159babcda0359672a/files/Grammar-guided%20Linear%20Genetic%20Programming%20for%20Dynamic%20Job%20Shop%20Scheduling.pdf">[pdf]</a></li>	
