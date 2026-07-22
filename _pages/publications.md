@@ -9,7 +9,7 @@ author_profile: true
 <ol>
 <li>
 <b>Zhixing Huang</b>, Bing Xue, Mengjie Zhang, Jeremy S. Rooney, Keith C. Gordon, and Daniel P. Killeen, "<a target="_blank" href="https://rsnz.onlinelibrary.wiley.com/doi/10.1002/snz2.70051"> Symbolically Regressing Fish Biomass Spectral Data: A Linear Genetic Programming Method With Tunable Primitives</a>." <i>Journal of the Royal Society of New Zealand</i>, vol. 56, no. 3, p. e70051, Jun. 2026, doi: 10.1002/snz2.70051.
- <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Journal of the Royal Society of New Zealand - 2026 - Huang - Symbolically Regressing Fish Biomass Spectral Data  A Linear.pdf"/>[pdf]</a>&#128077;
+ <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Journal of the Royal Society of New Zealand - 2026 - Huang - Symbolically Regressing Fish Biomass Spectral Data  A Linear.pdf"/>[pdf]</a>
 </li>
   
 <li>
