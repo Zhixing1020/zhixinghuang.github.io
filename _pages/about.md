@@ -15,7 +15,7 @@ South China University of Technology
 News
 ======
 <ol>
-<li><span style="color: #FF0000">Best Paper Nomination</span>, our paper “<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3583131.3590394">Typed Linear Genetic Programming for Abstraction and Reasoning Corpus</a>” got the Best Paper Award Nomination of <i> IEEE World Congress of Computational Intelligence (WCCI) </i> 2026.</li>
+<li><span style="color: #FF0000">Best Paper Nomination</span>, our paper “<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3583131.3590394">Typed Linear Genetic Programming for Abstraction and Reasoning Corpus</a>” got the Best Paper Nomination of <i> IEEE World Congress of Computational Intelligence (WCCI) </i> 2026.</li>
 <li>Received funding through the <span style="color: #FF0000">Excellent Young Scientists Fund Project (Overseas), China.</span> 2025.</li>
 <li><span style="color: #FF0000">Best Paper Award</span>, our paper “<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3583131.3590394">Grammar-guided Linear Genetic Programming for Dynamic Job Shop Scheduling</a>” won the Best Paper Award of <i> Genetic and Evolutionary Computation Conference (GECCO) </i> 2023.</li>
 <li><span style="color: #FF0000">Best Paper Award</span>, our paper “<a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-031-02056-8_11">An Investigation of Multitask Linear Genetic Programming for Dynamic Job Shop Scheduling</a>” won the Best Paper Award of <i> European Conference on Genetic Programming (EuroGP) </i> 2022.</li>
