@@ -42,7 +42,7 @@ author_profile: true
 ## Conference Papers
 <ol>
 
-<li><b>Zhixing Huang</b>, Bing Xue, and Mengjie Zhang, "Typed Linear Genetic Programming for Abstraction and Reasoning Corpus," in <i>Proceedings of the IEEE World Congress on Computational Intelligence</i>, June 2026, pp. 1-1. (<span style="color: #FF0000">Best Paper Award Nomination</span>)<a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/typed_LGP_for_ARC.pdf">[pdf]</a></li>
+<li><b>Zhixing Huang</b>, Bing Xue, and Mengjie Zhang, "Typed Linear Genetic Programming for Abstraction and Reasoning Corpus," in <i>Proceedings of the IEEE World Congress on Computational Intelligence</i>, June 2026, pp. 1-1. (<span style="color: #FF0000">Best Paper Nomination</span>)<a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/typed_LGP_for_ARC.pdf">[pdf]</a></li>
   
 <li><b>Zhixing Huang</b>, Bing Xue, Mengjie Zhang, Jeremy S. Rooney, Keith C. Gordon, and Daniel P. Killeen, "Designing New Data Augmentation Functions for Fish Spectral Data by Genetic Programming," in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, Malaga Spain: ACM, Jul. 2025, pp. 939–942. <a href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Zhixing%20Huang%20et%20al%202025%20-%20designing%20new%20data%20augmentation%20function%20for%20fish%20spectral%20data%20by%20genetic%20programming.pdf">[pdf]</a></li>
   
