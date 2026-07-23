@@ -9,7 +9,7 @@ author_profile: true
 <ol>
 <li>
 <b>Zhixing Huang</b>, Bing Xue, Mengjie Zhang, Jeremy S. Rooney, Keith C. Gordon, and Daniel P. Killeen, "<a target="_blank" href="https://rsnz.onlinelibrary.wiley.com/doi/10.1002/snz2.70051"> Symbolically Regressing Fish Biomass Spectral Data: A Linear Genetic Programming Method With Tunable Primitives</a>." <i>Journal of the Royal Society of New Zealand</i>, vol. 56, no. 3, p. e70051, Jun. 2026, doi: 10.1002/snz2.70051.
- <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Symbolically_Regressing_Fish_Biomass_Spectral_Data-A_Linear.pdf"/>[pdf]</a> </li>
+ <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Symbolically_Regressing_Fish_Biomass_Spectral_Data-A_Linear.pdf">[pdf]</a> </li>
   
 <li>
 <b>Zhixing Huang</b>, Yi Mei, Fangfang Zhang, Mengjie Zhang, and Wolfgang Banzhaf. "<a target="_blank" href="https://ieeexplore.ieee.org/document/10819486"> Fitness Landscape Optimization Makes Stochastic Symbolic Search By Genetic Programming Easier</a>." <i>IEEE Transactions on Evolutionary Computation</i>, 2025, 1–1. DOI: https://doi.org/10.1109/TEVC.2024.3525006. <a target="_blank" href="https://github.com/Zhixing1020/zhixinghuang.github.io/blob/master/files/Fitness_Landscape_Optimization_Makes_Stochastic_Symbolic_Search_By_Genetic_Programming_Easier.pdf">[pdf]</a>&#128077;
